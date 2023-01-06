@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ColSel": {
+      "commandName": "Project"
+    },
+    "ColSel but always on top": {
+      "commandName": "Project",
+      "commandLineArgs": "/t"
+    }
+  }
+}
